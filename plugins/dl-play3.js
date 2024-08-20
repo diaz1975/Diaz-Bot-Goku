@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 
 
-const imgUrl = 'https://telegra.ph/file/4a2109510a508433396f3.jpg';
+const imgUrl = 'https://telegra.ph/file/649bb3a5c5e99f8d28666.jpg';
 
 let handler = async (m, { conn, args, usedPrefix, text, command }) => {
     let lister = ["yta", "audio", "ytv", "video", "vídeo", "mp4", "mp3doc", "ytadoc", "audiodoc", "mp4doc", "ytvdoc", "videodoc", "vídeodoc"];
