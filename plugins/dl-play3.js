@@ -17,7 +17,7 @@ let handler = async (m, { conn, args, usedPrefix, text, command }) => {
     }
     
     if (!searchQuery) {
-        return conn.reply(m.chat, `*🐉 Ingresa el nombre 𝚍𝚎l 𝚟𝚒𝚍𝚎𝚘 𝚘 𝚖ú𝚜𝚒𝚌𝚊 que quiere que busgue en 𝚈𝚘𝚞𝚃𝚞𝚋𝚎.*`, m);
+        return conn.reply(m.chat, `*🥷🏻 Ingresa el nombre 𝚍𝚎l 𝚟𝚒𝚍𝚎𝚘 𝚘 𝚖ú𝚜𝚒𝚌𝚊 que quiere que busgue en 𝚈𝚘𝚞𝚃𝚞𝚋𝚎.*`, m);
     }
     
     try {
@@ -36,7 +36,7 @@ let handler = async (m, { conn, args, usedPrefix, text, command }) => {
         txt += `❏ 𝙰𝚄𝚃𝙾𝚁: ${vid.author.name}\n`;
         txt += `❏ 𝙿𝚞𝚋𝚕𝚒𝚌𝚊𝚍𝚘: ${vid.ago}\n`;
         txt += `❏ 𝚄𝚁𝙻: https://youtu.be/${vid.videoId}\n\n`;
-        txt += `🐉 @${m.sender.split('@')[0]}, 🌀░S░o░n░G░o░k░u🌀`;
+        txt += `🥷🏻 @${m.sender.split('@')[0]}, 🥷🏻𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻`;
 
         
         await conn.sendFile(m.chat, responseImg.data, "thumbnail.jpg", txt, m, null, rcanal);
