@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/YerTX2/SonGOKU",
+  "homepage": "https://github.com/diaz1975/Diaz-Bot-Goku",
   "author": {
-    "name": "YerTX2"
+    "name": "DiazMod"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YerTX2/SonGOKU.git"
+    "url": "git+https://github.com/diaz1975/Diaz-Bot-Goku.git"
   },
   "bugs": {
-    "url": "https://github.com/YerTX2/SonGOKU/issues"
+    "url": "https://github.com/diaz1975/Diaz-Bot-Goku/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
