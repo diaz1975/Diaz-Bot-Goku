@@ -30,14 +30,14 @@ const defaultMenu = {
 
 ぁ あ ぃ い ぅ う ぇぃ い 
 ぃ いぃ いぃ いぃ いぃ い
-“ Hola *%name*, 🐉Bienvenido 
-A ░S░o░n░G░o░k░u🐉  ”
+“ Hola *%name*, 🥷🏻Bienvenido 
+A 𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻  ”
 
 ╭━─━━─≪ *TU INFO*
-│  🐉 *✨ Nombre ∙* %name
-│  🐉 *⚡ Ki ∙* %limit
-│  🐉 *🪐 XP ∙* %totalexp
-│  🐉 *🔰 Nivel ∙* %level
+│  🥷🏻 *✨ Nombre ∙* %name
+│  🥷🏻 *⚡ Ki ∙* %limit
+│  🥷🏻 *🪐 XP ∙* %totalexp
+│  🥷🏻 *🔰 Nivel ∙* %level
 ╰━──━─≪
 %readmore
   
@@ -48,7 +48,7 @@ A ░S░o░n░G░o░k░u🐉  ”
 🌀░S░o░n░G░o░k░u🌀
 `.trimStart(),
 header: '╭━━━━━✦✗ *%category* ',
-body: '│  > 🐉 *%cmd*\n',
+body: '│  > 🥷🏻 *%cmd*\n',
 footer: '╰━━━━━✦✗ \n',
 after: '',
 }
