@@ -10,11 +10,11 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['51907376960', 'Yer 🌀', true],
-  ['51907376960'],
-  ['51907376960'],
-  ['51907376960'],
-  ['51907376960']
+  ['573234231940', 'Diaz 🥷🏻', true],
+  ['573234231940'],
+  ['573234231940'],
+  ['573234231940'],
+  ['573234231940']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -25,20 +25,20 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "🌀SonGoku🌀",\n     "author": "YerTX2",\n   "status_bot": "active"\n }\n}'
-global.wait = '🌀 *SonGoku*'
-global.botname = '🌀░S░o░n░G░o░k░u🌀 '
-global.textbot = `🌀░S░o░n░G░o░k░u🌀`
-global.listo = '*⚔️ Aqui tiene*'
-global.namechannel = '【🌀░S░o░n░G░o░k░u🌀】'
+global.author = '{\n "bot": {\n   "name": "DiazBot🥷🏻",\n     "author": "DiazMod",\n   "status_bot": "active"\n }\n}'
+global.wait = '🥷🏻 *𝗗𝗶𝗮𝘇 𝗕𝗼𝘁*'
+global.botname = '𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻 '
+global.textbot = `𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻`
+global.listo = '*🥷🏻 Aqui tiene*'
+global.namechannel = '🥷🏻𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 global.fantasyVid = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4']
 global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/LBV1BouJqL0ICIRogyq6IT'
-global.canal = 'https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v'
+global.group = 'https://chat.whatsapp.com/GSkwgnAXHhaI3cavWHIVrR'
+global.canal = 'https://whatsapp.com/channel/0029Vaj5Xwx6rsQryvEUhv15'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
