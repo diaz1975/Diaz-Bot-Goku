@@ -2,7 +2,7 @@ import yts from 'yt-search';
 
 let handler = async (m, { conn, command, args, text, usedPrefix }) => {
     if (!text) {
-        return conn.reply(m.chat, '*Que quieres que busque SonGoku*', m);
+        return conn.reply(m.chat, '*Que quieres que busque Díaz Bot*', m);
     }
 
     await m.react('⏳');
@@ -23,14 +23,14 @@ let handler = async (m, { conn, command, args, text, usedPrefix }) => {
     txt += `> *𝚅𝚒𝚜𝚒𝚝𝚊𝚜* : _${views.toLocaleString()}_\n`;
     txt += `> *𝙻𝚒𝚗𝚔* : _https://www.youtube.com/watch?v=${videoId}_\n`;
     txt += '┗─══──━══─| ✠ |─══━─═──┛ \n';
-    txt += '*🌀░S░o░n░G░o░k░u🌀*';
+    txt += '*🥷🏻𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻*';
 
     await conn.sendButton2(m.chat, txt, '. ', thumbnail, [
         ['audioMP3', `${usedPrefix}ytmp3 ${url}`],
         ['audioMP3DOC', `${usedPrefix}ytmp3doc ${url}`],
         ['videoMP4', `${usedPrefix}ytmp4 ${url}`], 
         ['videoMP4DOC', `${usedPrefix}ytmp4doc ${url}`]
-        ], null, [['Canal', 'https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v']], m);
+        ], null, [['Canal', 'https://whatsapp.com/channel/0029Vaj5Xwx6rsQryvEUhv15']], m);
 
     await m.react('✅');
 };
