@@ -45,7 +45,7 @@ A 𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻  ”
 ぃ いぃ いぃ いぃ いぃ い
 
 \t\t\t L I S T A  -  M E N Ú S
-🌀░S░o░n░G░o░k░u🌀
+🥷🏻𝗗𝗶𝗮𝘇 𝗕𝗼𝘁🥷🏻
 `.trimStart(),
 header: '╭━━━━━✦✗ *%category* ',
 body: '│  > 🥷🏻 *%cmd*\n',
@@ -152,23 +152,6 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     
 let urls = [
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
-"https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
 "https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4", 
 "https://telegra.ph/file/8376e8dff8817ebbb18eb.mp4" 
 ];
